@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\gal\שולחן עבודה\rubix cube\forclass3d\inputmanager.h(354): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\rubix cube\forclass3d\inputmanager.h(360): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\rubix cube\forclass3d\inputmanager.h(366): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\rubix cube\forclass3d\inputmanager.h(372): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  forClass3D.vcxproj -> E:\gal\שולחן עבודה\rubix cube\Debug\forClass3D.exe

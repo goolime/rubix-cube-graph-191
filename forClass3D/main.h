@@ -1,0 +1,30 @@
+#pragma once
+
+static int rotate_dir = 1;
+//static vec3 mov = glm::vec3(0.0f, 0.0f, 0.0f);
+void Key_UP();
+void Key_DOWN();
+void Key_RIGHT();
+void Key_LEFT();
+void Key_R(int rubix[]);
+void Key_L(int rubix[]);
+void Key_U(int rubix[]);
+void Key_D(int rubix[]);
+void Key_F(int rubix[]);
+void Key_B(int rubix[]);
+void flip();
+void zeroize();
+void restart();
+void mov_up();
+void mov_down();
+void mov_right();
+void mov_left();
+void mov_in();
+void mov_out();
+void div_angle();
+void mul_angle();
+bool is_lock();
+void turn_lock();
+bool has_turn();
+void roundturn_lock();
+void unlock();
